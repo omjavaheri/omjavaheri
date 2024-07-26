@@ -151,12 +151,16 @@ Vscode (Visual Studio Code )
 <td>
 Node.js
 </td>
+</tr>
+<tr>
  <td>
 1 years
 </td>
 <td>
 RabbitMQ
 </td>
+</tr>
+<tr>
    <td>
 1 years
 </td>
