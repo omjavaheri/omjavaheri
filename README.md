@@ -151,6 +151,18 @@ Vscode (Visual Studio Code )
 <td>
 Node.js
 </td>
+ <td>
+1 years
+</td>
+<td>
+RabbitMQ
+</td>
+   <td>
+1 years
+</td>
+<td>
+Redis
+</td>
 </tr>
 </tbody>
 </table>
