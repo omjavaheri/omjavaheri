@@ -1,7 +1,7 @@
 <h1 align="left">Hello! 👋 I'm Sajad Aminjavaheri</h1>
 
 <p align="left">🌟 Senior Full Stack Developer | IoT Specialist | Open to Collaboration</p>
-I am ready to collaborate with companies in English-speaking countries, and I have full proficiency in this language as well as Arabic and French.  
+ 
 
 ---
 
@@ -14,10 +14,9 @@ I am ready to collaborate with companies in English-speaking countries, and I ha
 🔹 Open to collaborating on innovative projects, custom software development, and consultation services.<br>
 </p>
 
-أنا مستعد للتعاون مع الشركات في الدول الناطقة بالعربية، وأتمتع بتسلط كامل على هذه اللغة بالإضافة إلى الإنجليزية والفرنسية.  
-I am ready to collaborate with companies in English-speaking countries, and I have full proficiency in this language as well as Arabic and French.  
-Je suis prêt à collaborer avec des entreprises dans les pays francophones, et je maîtrise parfaitement cette langue ainsi que l'arabe et l'anglais.  
+---
 
+### I am ready to collaborate with companies in English-speaking countries, and I have full proficiency in this language as well as Arabic and French. 
 
 ---
 
