@@ -6,7 +6,7 @@
 
 <h2 align="left">💡 About Me</h2>
 <p align="left">
-🔹 **Over 20 years of experience** in designing and developing web and enterprise-level applications.<br>
+🔹 ** Over 20 years of experience ** in designing and developing web and enterprise-level applications.<br>
 🔹 Extensive expertise in **IoT, IIoT, and industrial automation systems**.<br>
 🔹 Proficient in **Microsoft .NET Framework**, various programming languages, and modern frameworks.<br>
 🔹 Skilled in **database design**, backend systems, and **real-time data management**.<br>
