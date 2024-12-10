@@ -1,7 +1,7 @@
 <h1 align="left">Hello! 👋 I'm Sajad Aminjavaheri</h1>
 
 <p align="left">🌟 Senior Full Stack Developer | IoT Specialist | Open to Collaboration</p>
-
+I am ready to collaborate with companies in English-speaking countries, and I have full proficiency in this language as well as Arabic and French.  
 ---
 
 <h2 align="left">💡 About Me</h2>
