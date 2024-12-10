@@ -13,6 +13,11 @@
 🔹 Open to collaborating on innovative projects, custom software development, and consultation services.<br>
 </p>
 
+أنا مستعد للتعاون مع الشركات في الدول الناطقة بالعربية، وأتمتع بتسلط كامل على هذه اللغة بالإضافة إلى الإنجليزية والفرنسية.  
+I am ready to collaborate with companies in English-speaking countries, and I have full proficiency in this language as well as Arabic and French.  
+Je suis prêt à collaborer avec des entreprises dans les pays francophones, et je maîtrise parfaitement cette langue ainsi que l'arabe et l'anglais.  
+
+
 ---
 
 <h2 align="left">📜 Project Highlights</h2>
